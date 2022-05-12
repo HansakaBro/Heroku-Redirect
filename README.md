@@ -1,1 +1,1 @@
-# Heroku-Redirect
+- Credits [@Itz-fork](github.com/Itz-fork)
