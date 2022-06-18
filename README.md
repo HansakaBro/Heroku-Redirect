@@ -1,1 +1,1 @@
-- Credits [@Itz-fork](github.com/Itz-fork)
+- Credits to [@Itz-fork](https://github.com/Itz-fork)
